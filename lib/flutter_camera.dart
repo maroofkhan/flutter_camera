@@ -288,7 +288,7 @@ class _FlutterCameraState extends State<FlutterCamera> {
         Navigator.pop(context);
       },
       icon: Icon(
-        Icons.clear,
+        Icons.arrow_back,
         color: widget.iconColor,
         size: 30,
       ),
